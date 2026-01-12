@@ -1,4 +1,4 @@
-# QuNeX-Quantum-Network-eXplorer
+# QuNeX-Quantum Network eXplorer
 **QuNeX** is a Python library for simulating entanglement distribution protocols
 in quantum networks.
 
